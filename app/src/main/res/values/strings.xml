@@ -8,5 +8,6 @@
     <string name="min_temp">8°</string>
     <string name="weather">Cloudy</string>
     <string name="forecast">Today - Sunny - 88/63</string>
+    <string name="action_refresh">refresh</string>
 
 </resources>
