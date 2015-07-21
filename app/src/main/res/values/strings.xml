@@ -9,5 +9,7 @@
     <string name="weather">Cloudy</string>
     <string name="forecast">Today - Sunny - 88/63</string>
     <string name="action_refresh">refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
